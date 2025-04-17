@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/stylo club"
+		},
+		{
+			"path": "../../../../my-react-app"
+		},
+		{
+			"path": "../../../../vite-project/my-project-suki"
+		}
+	],
+	"settings": {}
+}
